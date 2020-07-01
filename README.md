@@ -6,5 +6,5 @@ GAME RULES: - The game has 2 players, playing in rounds
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - Th first player to reach 25 points on GLOBAL score wins the game
 # Demo  
-https://pig-game.vikyathshirva.vercel.app/
+https://pig-game-khaki.vercel.app/
 
